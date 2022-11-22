@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\WebAPI.exe
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\appsettings.Development.json
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\appsettings.json
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\WebAPI.dll
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\WebAPI.deps.json
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\WebAPI.runtimeconfig.json
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\WebAPI.pdb
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\Microsoft.OpenApi.dll
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Lenovo\Documents\dotnet\S7_API\WebAPI\WebAPI\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-10T16:14:28.2895238Z;True|2022-11-10T18:06:25.8822042+02:00;True|2022-11-10T18:04:34.5841312+02:00;True|2022-11-10T17:20:38.8831650+02:00;True|2022-11-10T17:15:15.4216011+02:00;True|2022-11-10T16:16:27.6140292+02:00;True|2022-11-10T15:27:41.2646834+02:00;True|2022-11-10T15:22:04.3307652+02:00;True|2022-11-10T15:14:39.7813441+02:00;True|2022-11-10T15:00:52.3276484+02:00;True|2022-11-09T22:08:53.2030244+02:00;True|2022-11-08T19:11:41.0858135+02:00;True|2022-11-08T18:56:38.1761786+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
