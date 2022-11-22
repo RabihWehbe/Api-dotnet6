@@ -1,0 +1,4 @@
+This Api is restricted with cors policy.
+This dotnet api application is published in with folder contains files.txt for logic of this api.
+Through these mentioned files it can get,post,edit,and delete any Person model object that stored
+as Person.txt in the corresponding docker container.
